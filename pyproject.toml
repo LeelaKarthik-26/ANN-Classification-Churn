@@ -1,7 +1,7 @@
 [project]
 name = "annclassification"
 version = "0.1.0"
-description = "Add your description here"
+description = "annclassification for churn prediction"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -13,4 +13,5 @@ dependencies = [
     "streamlit>=1.52.1",
     "tensorboard>=2.20.0",
     "tensorflow>=2.20.0",
+    "pickle5>=0.0.12",
 ]
