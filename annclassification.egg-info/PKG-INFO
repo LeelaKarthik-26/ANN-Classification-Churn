@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: annclassification
+Version: 0.1.0
+Summary: annclassification for churn prediction
+Requires-Python: <3.12,>=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy==1.26.4
+Requires-Dist: pandas==2.2.2
+Requires-Dist: scikit-learn==1.4.2
+Requires-Dist: scikeras==0.13.0
+Requires-Dist: streamlit==1.32.2
+Requires-Dist: tensorflow==2.17.0
